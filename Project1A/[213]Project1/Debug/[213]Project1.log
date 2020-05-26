@@ -1,0 +1,6 @@
+﻿  my_assembler_20160283.c
+D:\SystemProgramming\[213]Project1\[213]Project1\my_assembler_20160283.c(1269,21): warning C4477: 'fprintf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'char *'입니다.
+D:\SystemProgramming\[213]Project1\[213]Project1\my_assembler_20160283.c(1269,21): warning C4473: 'fprintf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\SystemProgramming\[213]Project1\[213]Project1\my_assembler_20160283.c(1269,21): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 3개가 제공되었습니다.
+D:\SystemProgramming\[213]Project1\[213]Project1\my_assembler_20160283.c(1269,21): message : 누락된 variadic 인수 4이(가) 서식 문자열 '%-6s'에 필요합니다.
+  [213]Project1.vcxproj -> D:\SystemProgramming\[213]Project1\Debug\[213]Project1.exe
