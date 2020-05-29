@@ -6,6 +6,7 @@
 1. ObjectProgram을 Memory에 올린다.
 2. VisualSimulator(GUI)를 통해 명령어에 수행에 따른 Register값의 변화를 보여준다 
 
+##### 명령어 설명 'F1'Device를 읽어 '05'Device에 복사한다.
 ![3f580269-7fea-4999-8553-f53af9da5f84 pdf-0001](https://user-images.githubusercontent.com/50524321/83223187-39da9400-a1b5-11ea-9f83-be388663ce4b.jpg)
 ![2](https://user-images.githubusercontent.com/50524321/83224066-7dce9880-a1b7-11ea-96eb-24bdf07b3417.jpg)
 ![3](https://user-images.githubusercontent.com/50524321/83224069-7f985c00-a1b7-11ea-8876-d89befbcf80f.jpg)
